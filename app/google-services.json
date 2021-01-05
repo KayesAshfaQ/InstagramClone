@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "792386054423",
+    "firebase_url": "https://instademo-f45e2.firebaseio.com",
+    "project_id": "instademo-f45e2",
+    "storage_bucket": "instademo-f45e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792386054423:android:6ba1bcfd68b57df5b82f52",
+        "android_client_info": {
+          "package_name": "com.impervious.instademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792386054423-hdfj7of4mc4k25q5ko6q6i5ejf8d6hpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4BAs2ro57ai9AEhHXmbL5XZN9J67IO9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792386054423-hdfj7of4mc4k25q5ko6q6i5ejf8d6hpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
